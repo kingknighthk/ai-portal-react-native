@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ai-portal-react-native",
+    "slug": "ai-portal-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ai-portal-react-native"
+}
